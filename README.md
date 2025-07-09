@@ -28,7 +28,7 @@ Every year, millions of pets enter shelters, with many facing euthanasia due to 
 ## 💻 Tech Stack
 
 ### Backend
-- **Language**: Java 17
+- **Language**: Java 24
 - **Framework**: Spring Boot 3.2.0, Spring Cloud
 - **Database**: PostgreSQL 15, Redis 7
 - **Messaging**: Apache Kafka
@@ -37,8 +37,6 @@ Every year, millions of pets enter shelters, with many facing euthanasia due to 
 
 ### Infrastructure
 - **Container**: Docker, Kubernetes
-- **CI/CD**: GitHub Actions, ArgoCD
-- **Monitoring**: Prometheus, Grafana, ELK Stack
 - **Cloud**: AWS (EKS, RDS, S3, CloudFront)
 
 ### Frontend
